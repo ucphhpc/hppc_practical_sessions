@@ -41,15 +41,21 @@ int main() {
 
 Please state your exercise questions below:
 
-------------------------------------------
+-------------------------------------------
 
 
 
 
 ### Assignment Questions
 
-Please state your assignment questions below
+Please state your assignment questions below:
 - *Note! Don't post you assignment solutions here*
 
---------------------------------------------
+---------------------------------------------
 
+
+### Other Questions
+
+Please state other questions below:
+
+-----------------------------------
